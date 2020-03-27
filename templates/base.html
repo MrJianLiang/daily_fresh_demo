@@ -4,7 +4,7 @@
 
     <div class="header_con">
 		<div class="header">
-			<div class="welcome fl">欢迎来到天天生鲜!</div>
+			<div class="welcome fl">欢迎来到我的花店!</div>
 			<div class="fr">
 {#                判断是否已经登录#}
                 {% if request.session.user_name|default:'' != '' %}
@@ -37,7 +37,7 @@
 
 
     <div class="search_bar clearfix">
-		<a href="/" class="logo fl"><img src="/static/images/logo.png"></a>
+		<a href="/" class="logo fl"><img src="/static/images/logo.png" height="90" width="180" /></a>
         {% if page_name == 1 %}
             <div class="sub_page_name fl">|&nbsp;&nbsp;&nbsp;&nbsp;{{ title }}</div>
         {% endif %}
@@ -57,7 +57,7 @@
 
             </script>
 			<input type="text" class="input_text fl" name="q" placeholder="搜索商品">
-			<input type="button" class="input_btn fr" name="" value="搜索">
+			<input type="button" style="background:#FFC0CB; color:#FFF" class="input_btn fr" name="" value="搜索">
 		</div>
 
         {% if guest_cart == 1 %}

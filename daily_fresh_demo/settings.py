@@ -64,6 +64,15 @@ DATABASES = {
     'OPTIONS': {
         'TIMEOUT': 20,
     }
+
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.mysql',
+    #     'NAME': 'daily_fresh',
+    #     'USER': 'root',
+    #     'PASSWORD': 'jianliang',
+    #     'HOST': '114.67.95.137',
+    #     'PORT': '3307',
+    # }
 }
 
 AUTH_PASSWORD_VALIDATORS = [
