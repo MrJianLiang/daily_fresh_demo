@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45668937-8df2-4ece-9cfa-fd4649cb4a1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/daily_fresh_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/daily_fresh_demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_fresh_demo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_fresh_demo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base_foot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base_foot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/df_user/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/df_user/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/df_goods/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/df_goods/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/df_goods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/df_goods/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +412,7 @@
       <workItem from="1578640312367" duration="3601000" />
       <workItem from="1585130782824" duration="3742000" />
       <workItem from="1585202467461" duration="15499000" />
-      <workItem from="1585898792814" duration="3285000" />
+      <workItem from="1585898792814" duration="6138000" />
     </task>
     <servers />
   </component>
@@ -470,10 +468,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578641976460" />
-    <state x="622" y="278" width="824" height="538" key="find.popup" timestamp="1585902464415">
+    <state x="622" y="278" width="824" height="538" key="find.popup" timestamp="1585905705876">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state x="622" y="278" width="824" height="538" key="find.popup/0.23.1920.982/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.982" timestamp="1585902464415" />
+    <state x="622" y="278" width="824" height="538" key="find.popup/0.23.1920.982/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.982" timestamp="1585905705876" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/daily_fresh_demo$settings.coverage" NAME="settings Coverage Results" MODIFIED="1578640768851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_fresh_demo" />

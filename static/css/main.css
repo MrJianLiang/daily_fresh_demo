@@ -67,9 +67,9 @@ html,body{height:100%}
 
 .navbar_con{height:40px;border-bottom:2px solid #39a93e}
 .navbar{width:1200px;margin:0 auto;}
-.navbar h1{width:200px;height:40px;line-height:40px;text-align: center;font-size:14px;color:#fff;background-color:#39a93e;}
+.navbar h1{width:200px;height:40px;line-height:40px;text-align: center;font-size:14px;color:#fff;background-color: #FFC0CB;}
 
-.navbar .subnav_con{width:200px;height:40px;background-color:#39a93e;position:relative;cursor:pointer;}
+.navbar .subnav_con{width:200px;height:40px;background-color:#FFC0CB;position:relative;cursor:pointer;}
 
 .navbar .subnav_con h1{position:absolute;left:0;top:0;text-align:left;text-indent:40px}
 .navbar .subnav_con span{display:block;width:16px;height:9px;background:url(../images/down.png) no-repeat;position:absolute;right:27px;top:16px;transition:all 300ms ease-in;
@@ -95,12 +95,12 @@ html,body{height:100%}
 .subnav li a{display:block;height:44px;line-height:44px;text-indent:71px;font-size:14px;color:#333}
 .subnav li a:hover{color:#ff8800}
 
-.subnav li .fruit{background:url(../images/icons.png) 28px 0px no-repeat;}
-.subnav li .seafood{background:url(../images/icons.png) 28px -43px no-repeat;}
-.subnav li .meet{background:url(../images/icons.png) 28px -86px no-repeat;}
-.subnav li .egg{background:url(../images/icons.png) 28px -132px no-repeat;}
-.subnav li .vegetables{background:url(../images/icons.png) 28px -174px no-repeat;}
-.subnav li .ice{background:url(../images/icons.png) 28px -220px no-repeat;}
+/*.subnav li .fruit{background:url(../images/icons.png) 28px 0px no-repeat;}*/
+/*.subnav li .seafood{background:url(../images/icons.png) 28px -43px no-repeat;}*/
+/*.subnav li .meet{background:url(../images/icons.png) 28px -86px no-repeat;}*/
+/*.subnav li .egg{background:url(../images/icons.png) 28px -132px no-repeat;}*/
+/*.subnav li .vegetables{background:url(../images/icons.png) 28px -174px no-repeat;}*/
+/*.subnav li .ice{background:url(../images/icons.png) 28px -220px no-repeat;}*/
 
 
 .slide{width:760px;height:270px;position:relative;overflow:hidden;}
@@ -195,7 +195,7 @@ html,body{height:100%}
 
 .sort_bar{height:30px;background-color:#f0fdec}
 .sort_bar a{display:block;height:30px;line-height:30px;padding:0 20px;float:left;color:#000}
-.sort_bar .active{background-color:#37ab40;color:#fff;}
+.sort_bar .active{background-color: #FFC0CB;color:#fff;}
 
 
 .goods_type_list{
