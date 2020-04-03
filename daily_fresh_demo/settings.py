@@ -117,3 +117,6 @@ TINYMCE_DEFAULT_CONFIG = {
     'width': 600,
     'height': 400,
 }
+
+from django.core.cache import cache
+cache.clear()
